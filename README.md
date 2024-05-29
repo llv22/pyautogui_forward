@@ -1,7 +1,7 @@
-PyAutoGUI
+PyAutoGUI Forward
 =========
 
-PyAutoGUI is a  cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
+**PyAutoGUI Forward** is a  cross-platform GUI automation Python module for human beings based on [PyAutoGUI](https://pyautogui.readthedocs.io/en/latest/), Used to programmatically control the mouse & keyboard. Orlando's purpose is to bring into the support for Android, iOS and primary mobile systems.
 
 `pip install pyautogui`
 
